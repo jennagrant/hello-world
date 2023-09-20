@@ -16,11 +16,11 @@ The dataset we chose for our project was found on Kaggle.
 Our team used normalized the data into ERD's, used create table commands, created queries that answered relevant research questions pertaining to the data, and finally transferred this over to create a website application that created visuals and tables from our findings.
 
 ## Questions our Application Answered
-1.What is the total number of draft picks made by each team between the years 2000 and 2015? 
-2.What is the number of games played by first round draft picks from 2000-2015?
-3.What are the most common positions picked in the NFL draft and how has this changed over time? 
-4.Which running back drafted between the years 2000 and 2015 had the most rushing yards? 
-5.Which quarterbacks drafted between 2000 - 2014 have had some of the best careers? 
+1. What is the total number of draft picks made by each team between the years 2000 and 2015? 
+2. What is the number of games played by first round draft picks from 2000-2015?
+3. What are the most common positions picked in the NFL draft and how has this changed over time? 
+4. Which running back drafted between the years 2000 and 2015 had the most rushing yards? 
+5. Which quarterbacks drafted between 2000 - 2014 have had some of the best careers? 
 
 ## Link to Final Project Application Website
 *[Oracle Application Public Link] (https://apex.oracle.com/pls/apex/r/g1project/nfl-data-final-project-application/home?session=114924929818165)*
