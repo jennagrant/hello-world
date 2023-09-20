@@ -10,7 +10,7 @@ The NFL Draft took place last week, and previous datasets can help predict how a
 
 ## Data Set Chosen for the project
 The dataset we chose for our project was found on Kaggle.
-*[Kaggle NFL Draft Data Set](https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015)*
+*[NFL Draft Data Set](https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015)*
 
 ## Within the project construction...
 Our team used normalized the data into ERD's, used create table commands, created queries that answered relevant research questions pertaining to the data, and finally transferred this over to create a website application that created visuals and tables from our findings.
